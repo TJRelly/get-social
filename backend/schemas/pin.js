@@ -52,6 +52,6 @@ export default {
             title: 'Comments',
             type: 'array',
             of: [{ type: 'comment' }]
-        },
+        }
     ]
 }
